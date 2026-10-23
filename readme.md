@@ -1,1 +1,1 @@
-cpu degine with basic gates
+cpu degine with basic gates upto alu_8bit
